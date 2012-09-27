@@ -1,0 +1,914 @@
+commit ffb8470638bf3da7e1b8d5d6359ef7a8e0d14a36
+Merge: 21bac78 6ea537c
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 18:49:22 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 21bac7812b9a5502c4919609c9dc621ed8ad64ef
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 18:48:57 2012 -0500
+
+    added report and presentation
+
+commit 6ea537cba021222462ef6f2f39125bff57752114
+Merge: 6f2679d 90657bd
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 30 18:21:24 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 6f2679d5aa90d4bc4cf758bdea7c26bdbe368919
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 30 18:19:39 2012 -0500
+
+    …
+
+commit 90657bd0a6cc899fafab502ff8c8c83c895b183f
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 17:17:04 2012 -0500
+
+    made .out file
+
+commit 1c5cea90c301e2484ed7aa785ae49b5d2a285ab0
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 17:02:39 2012 -0500
+
+    finished adding tests
+
+commit 6e9c2288980b84f268848baa65733023fcf06747
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 16:23:32 2012 -0500
+
+    made some tests
+
+commit ef8a0bb2e4471e055816c4ff8f7f8ae664f21a0b
+Merge: 40850c9 13e4e37
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 16:23:00 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 40850c9c9f6436753dcf1b6aa5aec2d83bfd2857
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 16:22:37 2012 -0500
+
+    added copy of xml to project folder to use in tests
+
+commit 13e4e378f8043bb543aa056023b5d89f5aaea3e0
+Merge: dcddcae 22dfc88
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 30 16:12:38 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit dcddcae9209d4a3dd03d69a5c1766aca59578976
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 30 16:12:29 2012 -0500
+
+    editing template
+
+commit 22dfc88edcd8f5afae8feaa2c098d34bf5cb712b
+Author: Luis Santos <lfsantos2008@yahoo.com>
+Date:   Mon Jul 30 14:41:02 2012 -0500
+
+    added dynamic page for search
+
+commit 21f8f9a9e984eb24ea8ed51385735fd35d3ce42c
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 12:41:55 2012 -0500
+
+    tried implementing our lazy search
+
+commit de7f15ceaa84130cabcda9f427ec2f7e0477d5eb
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 30 08:37:38 2012 -0500
+
+    made simple powerpoint that we can turn in
+
+commit 5c4164de042e89b27ccc799221bdab541dff5a8f
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 29 23:26:23 2012 -0500
+
+    major bug fixes dealing with models and datastore
+
+commit 7b40292df1d80874e817df00621d796da5641292
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 29 21:52:29 2012 -0500
+
+    Working on main…
+
+commit e1a60c1f6e590b3915c4f056a3daa61d28b926de
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 29 16:45:05 2012 -0500
+
+    trying to implement search, added search class and editied app.yaml
+
+commit d019dd7df951bf9aa92a1a160d549359e99a6881
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Jul 26 04:24:56 2012 -0500
+
+    changed our django example to coincide with crisis example
+
+commit fa5c08a60d957966b0e8426d6fa2280cd7f482d5
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Jul 25 22:39:40 2012 -0500
+
+    made template file and worked on some django stuff
+
+commit abe5a563c16a1b2567e57eccc0a78bd3870ccc2f
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Tue Jul 24 17:07:23 2012 -0500
+
+    html edit
+
+commit 1e3c3fa2be5df99288eed46271ddd24943a30948
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 16 20:30:07 2012 -0500
+
+    fixed external links
+
+commit a8117cd6183812fbe35af8def74dd91288446bfc
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 16 20:27:56 2012 -0500
+
+    Adding related links
+
+commit a0977d9c5d6756c6090c053babec6e00dcfa35af
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 16 20:23:29 2012 -0500
+
+    adding pages
+
+commit bc354d26f7cada70d8a92eaae113e25066f8f7ae
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 16 20:15:03 2012 -0500
+
+    Adding orgs
+
+commit 071073f5dde12fc302a150f7227461b994439d34
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 16 20:11:14 2012 -0500
+
+    added info for lamar smith
+
+commit 55a4e59259b3cb11b3d8755c8df6e2e7d86d2734
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 16 20:06:08 2012 -0500
+
+    added censorship html page
+
+commit dc1eed36f693459d3deacd12a7af7a2a998d353b
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 19:52:23 2012 -0500
+
+    push!
+
+commit 18521c0751d7cb1a16d3bce46214532db2e1cfbd
+Merge: 8abf226 298427e
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 19:51:59 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 8abf226e47eb7f69bb9a6ed54a74d9821343803d
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 19:51:51 2012 -0500
+
+    push!
+
+commit 298427ed2c890568e2d3040b78ee12e4b56d1f12
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 16 19:30:13 2012 -0500
+
+    adding xml validation
+
+commit 39addaef935a5996933c23c0385c9d6b085bdb49
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 19:28:32 2012 -0500
+
+    ….
+
+commit 50ed5a7e41bb25fdf42d5a9d556325ec47c22252
+Merge: acadada 85d394d
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 19:20:35 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit acadada2b8dd4a8fa16476a7867ffe2b1cd98bbf
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 19:20:24 2012 -0500
+
+    édit html files
+
+commit 85d394de538044ad75c280dbe446b61100bdc2cf
+Merge: d80d6aa 711083e
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 16 18:41:32 2012 -0500
+
+    trying to push test file
+
+commit d80d6aaeca65f691c9eca2297be6dacd49df2753
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 16 18:40:02 2012 -0500
+
+    made unit tests
+
+commit 711083e3a459236e1387b9c94ad546d5f3eb0de5
+Merge: e9dc55a 5c9d119
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 18:34:08 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit e9dc55a2f8d3d6db3b093cf18286e7d8a2adaf89
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 18:33:58 2012 -0500
+
+    random commit
+
+commit 5c9d119304aab9368451228cbdbd00738b99f51d
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 16 18:13:54 2012 -0500
+
+    uploaded pdf again
+
+commit 29ad3e8f11aec3d42f00c1a5a289929332e2bac9
+Merge: 18b39f1 c8f00dd
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 16 18:09:32 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 18b39f1f1e73bffde400e2b681a3532d96d377a4
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Mon Jul 16 18:05:40 2012 -0500
+
+    added technical report
+
+commit c8f00ddf7213c3528fb2e62ce4deeaefeb73a8a3
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 17:37:19 2012 -0500
+
+    changes in site html files
+
+commit 4d8536247445db50a65c1687e50545251a1f6ddb
+Merge: 908d5cd ff27738
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 15:29:04 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 908d5cd88b27d97c629f7167c30bf3a1165c7e93
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 15:28:53 2012 -0500
+
+    site updates
+
+commit ff27738bb86613a0d701885d9f78ac9b00756f77
+Author: Luis Santos <lfsantos2008@yahoo.com>
+Date:   Mon Jul 16 14:48:59 2012 -0500
+
+    Added Report.docx
+
+commit d2bc08ad8cfd99bdfaedbc31c5d47859d5a28ea2
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 13:23:55 2012 -0500
+
+    Updates site templates and stuff
+
+commit c148d70c1277947039e51877debe4810ab3da232
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 16 04:14:28 2012 -0500
+
+    cleaned up the templates a bit, need to fix text wrapping in tables for separate pages and need to work on django stuff
+
+commit 75d22a5d2c3af8f6e3b7d23e131f5b380d06e5de
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 16 01:22:18 2012 -0500
+
+    gae models and datastore works for all entities, but references (idrefs) haven't been implemented yet. Also temporarily fixed situation where duplicate is being uploaded (see #34) - #23 #24 #29
+
+commit 70c226d6f45af29900043d9d7f930c4d330756b4
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 16 01:19:59 2012 -0500
+
+    trivial changes - disregard
+
+commit 2b8e1cb2d3d51ec69f3818844277235828583fa4
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 23:34:57 2012 -0500
+
+    Added models (complete except for refs to other crises/orgs/persons) to complete gae models - #23 #24
+
+commit 35c38a26fdce22dd4254ccf6748f629ec6fcf01f
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 23:10:31 2012 -0500
+
+    Successfully stored all data (except for person/org references) of crises - #23 #24 #29
+
+commit 168423cf207d029539ff4aea63c74f0e30342fdb
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 23:09:19 2012 -0500
+
+    Minor changes to instance (WHICH WILL NEED TO BE DELETED BEFORE SUBMISSION) to aid in proper implementation of models/upload processning
+
+commit 4ce3d97ed7d86484415bbfff20ea34a321d17e9a
+Merge: e69886f b5ed00f
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 23:06:47 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+
+commit e69886f5a43d29d727400bd06c4eeeb6d4d5ab0d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 23:06:11 2012 -0500
+
+    Implemented/fixed gae models for crises (#23)
+
+commit b5ed00f1873f2a8be4c4e535a9a188a1f8ae6197
+Merge: 270d7b0 b8a9d0a
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 15 21:21:04 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 270d7b08b6f4b7e5e30b7079c2ed7797a88a4a72
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 15 21:19:41 2012 -0500
+
+    added more to ThatGroup.doc
+
+commit b8a9d0afe0f40dd801b276b8fed279f24c54870c
+Merge: ca3036d bf8b651
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 15 20:31:28 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit ca3036d6128e4bf179a9f089f9358a4facca345d
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 15 20:31:17 2012 -0500
+
+    added references to organizations models
+
+commit bf8b651c564bffec9377dee5924728717f0c3b23
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 15 20:18:22 2012 -0500
+
+    made minor changes to report
+
+commit 62b96d25c926b40a1814723df5681958a849ce48
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 19:50:30 2012 -0500
+
+    Moved Models.py into correct folder
+
+commit c963a24da680b91d2d99c640584dafa64d83e364
+Merge: d6874fc fb033a9
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 19:49:55 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+
+commit d6874fc4e35e427b286050cae5c9715863eb6f7c
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 19:49:27 2012 -0500
+
+    Moved Models.py file inside site folder and updated main to correct syntax error
+
+commit fb033a9c98f1f7d7d77ffa48bf96c519aeb34c70
+Author: Luis Santos <lfsantos2008@yahoo.com>
+Date:   Sun Jul 15 19:43:47 2012 -0500
+
+    Added some to ThatGroup.docx
+
+commit 7601f02508a5cd0719937bdef195b2ddbb4f1053
+Author: Luis Santos <lfsantos2008@yahoo.com>
+Date:   Sun Jul 15 19:16:31 2012 -0500
+
+    Adding Models3.py again
+
+commit 5c011f632ea8e8b5220a16eb7611711da33b6365
+Merge: 417e8e6 277ea12
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 19:09:06 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+
+commit 417e8e69173f482d9a2f292ec0cce06296b6a838
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 19:08:55 2012 -0500
+
+    Trying to get main.py to reference the new model
+
+commit 277ea12933de71a73f949f42d40b59bb21cb8f09
+Merge: a4c2bb5 71d8d5f
+Author: Luis Santos <lfsantos2008@yahoo.com>
+Date:   Sun Jul 15 18:48:12 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit a4c2bb5dfb9e82b6273b880de5f8ae8f44ad239c
+Author: Luis Santos <lfsantos2008@yahoo.com>
+Date:   Sun Jul 15 18:47:22 2012 -0500
+
+    added models3.py
+
+commit 71d8d5f88d3c7ede9cf5a1c58e45aaa32a21d3de
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 15 18:46:04 2012 -0500
+
+    Models for Organizations without references
+
+commit e4a4ca39240b4f514b94334e7f9ca1a2e76c1ee3
+Merge: a28bec2 0f8f22a
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 18:44:59 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+
+commit a28bec25b045bc9e298c857f9c785984f492463b
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 15 18:44:34 2012 -0500
+
+    Started models file over from scratch using a 'Relationship Model' with references
+
+commit 0f8f22ac918cd77a86320147533ffe441f3bda45
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Sun Jul 15 18:25:47 2012 -0500
+
+    Adding necesary libraries to use minixsv (xml validator)
+
+commit 2b7317648c0d46693c2db2dc7fdf4c326ea45fa1
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Fri Jul 13 11:58:40 2012 -0500
+
+    added technical paper
+
+commit cf9875c71681d83f36042926a10c11c3ca5a95a6
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Jul 11 21:02:56 2012 -0500
+
+    playing around with crisis datastore and models
+
+commit 6837618ff41e50dca97a6e9bec62c76ebe612340
+Merge: 19f3abd 0661558
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Jul 11 19:04:04 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 19f3abd9f7f9b2baf551287524f8139b3ba227a2
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Jul 11 19:03:59 2012 -0500
+
+    fixend datastore
+
+commit 06615588eef75bd0ba65ffa7a6b5a5ab2d0b614f
+Author: ChildsD <Childsd@gmail.com>
+Date:   Wed Jul 11 19:00:56 2012 -0500
+
+    Added extra social tag to a crisis for testing purposes
+
+commit 380fd5f050bf3b90473ca4a503a5952d39d4a381
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Wed Jul 11 12:33:11 2012 -0500
+
+    fixed the gae unit tests, in the app.yaml it was suppose to be a /test.*
+
+commit f6238dbdfd936925f1014c424cf0500fd4d7d697
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Jul 11 04:06:41 2012 -0500
+
+    added test xml file
+
+commit 59cfaea6f1e1934e0d421087eddd8284e5c57eee
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Wed Jul 11 04:06:35 2012 -0500
+
+    getting somewhere with datastore
+
+commit 3a10c3f964db9da20c09a62be8516f00378cf5c1
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Tue Jul 10 18:15:50 2012 -0500
+
+    tried to make models again
+
+commit 337f1f7613c7068cbf155dfd74280b92d1085250
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Tue Jul 10 15:25:42 2012 -0500
+
+    added site template folder (still a work in progress)
+
+commit 9441b65e81cf8bb5eed9ecd880f13872203fdc77
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Tue Jul 10 04:24:21 2012 -0500
+
+    Modified log messages
+
+commit 37bad9441ffb00f73b3b7b20668c32e5af5a04c2
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 9 22:41:55 2012 -0500
+
+    Fixed logging to log tags and text (changes to xml instance are trivial)
+
+commit 87f145f69a5b344ea34730f0900bb94ed740fd2d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 9 21:54:33 2012 -0500
+
+    Fixed gaeunit to work with python 2.7 (at least to some extent). Now working on reading in the file now that we're using the new schema
+
+commit a457d16e610f2f0377155c6adeb38d00e599403d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 9 21:53:27 2012 -0500
+
+    modified gitignore file to ignore python copies that are being automatically generated
+
+commit af660749c7692aa7bc7df01b6b9205cd7f88797b
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 9 20:34:07 2012 -0500
+
+    Fixed our schema and instance to match and validate against the schema chosen for the class to use for phase II - NOTE: I took the schema from team 'Byte Me' (https://github.com/hychyc07/cs373-wc1-tests/blob/master/calvins-WC1.xsd) closes #22
+
+commit 752c0e16fb58b8f153b554120f767726bbea5d3f
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 8 16:11:32 2012 -0500
+
+    Replaced old schema with new version
+
+commit d95f5a2d7f0bb934a35283cc2c973ffb80947ee1
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 8 16:00:42 2012 -0500
+
+    added README.txt file to .gitignore
+
+commit d0b3935cd084af931fb4d46fcdbce5d2702769ef
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 8 15:59:12 2012 -0500
+
+    deleted unneeded .DS_Store files
+
+commit c4b63ced024ad9082eae11b97f1dc098d83dcb04
+Merge: 54c6413 2b599d3
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 8 15:56:32 2012 -0500
+
+    modified .gitignore file to not track .DS_Store files
+
+commit 54c6413b1941371d4798d68e3abcb1fee469d81d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 8 15:54:32 2012 -0500
+
+    I had to commit this in order to pull. We need to not include these unnecessary files in our commits (add them to the .gitignore file)
+
+commit 2b599d3419494311b5a7f27c7c959030419727e7
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Thu Jul 5 13:28:09 2012 -0500
+
+    added team name and team members to splash page
+
+commit cabf125275e3ff74bbb6596e77a392e8db1e5635
+Merge: 4e4870e bcbe717
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 2 19:52:40 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 4e4870e8c5e4146154cb868d39ae45eb36c6241e
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 2 19:52:28 2012 -0500
+
+    messing with unit tests
+
+commit bcbe717797648cdba773bb632050d443e78eabf7
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 2 19:35:15 2012 -0500
+
+    modified readme:
+
+commit d809c91a0eb3d32f8c7b9404dbe5bbd51f64fd40
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Mon Jul 2 19:01:44 2012 -0500
+
+    Adding README file
+
+commit d56fcdcdcca22e851f19e2d80fe49abb6916a737
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 2 18:57:54 2012 -0500
+
+    messing with unit tests
+
+commit 23c2628837cfec98f9f64aa9d9d5665999bf6f50
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 2 17:42:23 2012 -0500
+
+    Got export to work!
+
+commit 45674782867e23f0a8013665206628abff94e736
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 2 17:21:14 2012 -0500
+
+    Tweaked main for import/export and minor html changes
+
+commit 2ac177897a27d381cc1b49cf7e062e555c364e5e
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 2 12:16:33 2012 -0500
+
+    working on outputting xml file with proper formatting
+
+commit ae22256ddf5d1b25e0d9d3097ff3000c2d35a473
+Merge: aee4c5b 4322819
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 2 11:59:52 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+    
+    Conflicts:
+    	.DS_Store
+
+commit aee4c5b95445e0fb64dc30445f2b50f91a8df08b
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 2 11:59:12 2012 -0500
+
+    added .gitignore file
+
+commit 4322819601529ce4ff18c6157e4c361cfc155a8e
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Mon Jul 2 11:53:12 2012 -0500
+
+    added gaeunit python file and updated app.yaml
+
+commit abfe1d827d50f473889007abbe9a2a9dd6494c6b
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 2 02:02:58 2012 -0500
+
+    Successfully switched from python 2.5 to 2.7 (closes #14) and other minor changes (comments/logging/etc)
+
+commit 7b214db6a08480e806cc5a0d3f0eda71cf2d665d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 2 02:01:42 2012 -0500
+
+    changed app.yaml configurations to use python 2.7 instead of 2.5 (#14)
+
+commit 05adee03a7727f938ae9ca4dc1e7262e8a64ce7c
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Mon Jul 2 01:02:48 2012 -0500
+
+    File upload complete - working on processing XMP input data
+
+commit b22798c63dbb8fe997a28389e1101be8e37190db
+Merge: fd0b0e4 47177d2
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 1 23:28:42 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+
+commit fd0b0e49574b22d47e34037e98a868f951d8644e
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Sun Jul 1 23:28:30 2012 -0500
+
+    Working on XML uploader
+
+commit 47177d2d01c89f337b01b4cba9b560409cfa65d4
+Merge: c75688d 2c82e9d
+Author: Luis Santos <cs.utexas.edu>
+Date:   Sun Jul 1 22:29:34 2012 -0500
+
+    Merge branch 'master' of github.com:nalmanza/cs373-wc
+
+commit c75688d79b1118917bbb92fbe9702bd385641b3a
+Author: Luis Santos <cs.utexas.edu>
+Date:   Sun Jul 1 22:29:13 2012 -0500
+
+    Adding basic models; types may need to be changed
+
+commit 2c82e9d709a5bef5f26512cc5a5cf21eae07366c
+Merge: cb0cc3b 155b916
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 20:51:42 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit cb0cc3be66ac261850e27096a8bf2fcf065748c3
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 20:51:34 2012 -0500
+
+    minor changes
+
+commit 155b916120d3de607dc487458fc56f1241a2379c
+Merge: 84371af 55dd436
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 1 19:56:59 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 84371af3512067e0cfd945eb8fafcb5fac8d24bd
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 1 19:56:39 2012 -0500
+
+    update html files to have links
+
+commit 55dd43689bd6843216dfa6d0e05dbd65ab25bdff
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Sun Jul 1 19:31:43 2012 -0500
+
+    Adding files
+
+commit b25567b9172703cd8b993047bd8b4b9466a70e7b
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Sun Jul 1 19:27:05 2012 -0500
+
+    Adding missing people websites
+
+commit 28a45c64d4e68a39cc4cb2f480e921aac855182d
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Sun Jul 1 16:55:18 2012 -0500
+
+    update html files
+
+commit 15a09d93f82dca2ae5d7a677d7feedbbd10b5019
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 15:48:56 2012 -0500
+
+    minor change in invisible.html
+
+commit 27b3038c1b31aef125f7828393496ff638260228
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 15:45:47 2012 -0500
+
+    Fixed homepage issue
+
+commit d6fd090a7938b847c4d39436c1304aef34b26020
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 15:41:49 2012 -0500
+
+     moved completed pages into wc folder
+
+commit d3656c02c05aa8d1f6104e329e062890b3da6731
+Author: Irving <irving@ubuntu.(none)>
+Date:   Sun Jul 1 12:30:20 2012 -0500
+
+    updated mexico files
+
+commit 9d4c14a8d03cec627f2ec9fd95fc4eb8558bc8ef
+Merge: 47f1d63 1fe1131
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 07:49:20 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 47f1d6372d8170851b04032642d42adc705fb407
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sun Jul 1 07:49:09 2012 -0500
+
+    Filled out organization pages and tweaked home page
+
+commit 1fe1131ac2fbbffce1ccfa9e2eed278692c5df2b
+Author: Luis Santos <cs.utexas.edu>
+Date:   Sat Jun 30 21:59:08 2012 -0500
+
+    added 3 crisis
+
+commit 6a5fb377db3da3c6ddeed132f7408f7943db537f
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Sat Jun 30 21:13:48 2012 -0500
+
+    Modified html page; sample
+
+commit d76c4cc61c4478174f02ad31c25584b810d180e2
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Sat Jun 30 20:58:10 2012 -0500
+
+    Added html pages for each model
+
+commit 14a5e1b98b198e0f4acb413a6107c5bb26a257a0
+Merge: 6c774ba df4e4cb
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Fri Jun 29 12:42:36 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 6c774ba247b36c844b74b841b7b795d759ad9a6a
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Fri Jun 29 12:42:26 2012 -0500
+
+    typo
+
+commit df4e4cb121b949ceea3e47a98da6e1d83db4476d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Thu Jun 28 19:05:52 2012 -0500
+
+    instance and schema validate but still need to make sure all the requirements and data types are right - Issue #4
+
+commit 6a21e876e6abda9b1eacd41acaa961114444b74b
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Thu Jun 28 18:13:00 2012 -0500
+
+    first draft of instance per issue #4
+
+commit bb8a35b5f21aad6265b9f778187c8df0e199591d
+Author: Daniel Childs <Childsd@gmail.com>
+Date:   Thu Jun 28 18:12:42 2012 -0500
+
+    first draft of schema per issue #4
+
+commit 7d22c1d7f44e26f203fb012ee395a36873e5b814
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Jun 28 17:53:36 2012 -0500
+
+    Edited some template items
+
+commit ebbb692dac6d8df77ad6ab9384e39f8dc9d27004
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Thu Jun 28 16:40:15 2012 -0500
+
+    Adding sample files
+
+commit 1f06dde2731dfc36c60a2c7601d653ce5248ea3a
+Merge: 22bb467 1ebe691
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Jun 28 16:39:12 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit 22bb46745093264bafda832676677c7a41935f69
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Thu Jun 28 16:39:00 2012 -0500
+
+    added GAE folder
+
+commit 1ebe6912d2f0d4eb97eb875bc7bfe47906a65b96
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Thu Jun 28 13:03:04 2012 -0500
+
+    Merged data into a single file
+
+commit 42d60b65e27952c30c11f35d07339dd1b671e2e1
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Wed Jun 27 12:26:25 2012 -0500
+
+    finished adding information to crisis.txt
+
+commit 74f1c4c025664126c75ab4147fd421a20535cdf6
+Merge: f5b52dc 05fb1d0
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Tue Jun 26 20:31:28 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit f5b52dc700b7d9d71f26e3141b417d7f50df936e
+Author: Irving Arredondo <irva91@utexas.edu>
+Date:   Tue Jun 26 20:31:07 2012 -0500
+
+    added info to crisis
+
+commit 05fb1d0b1df76efc8c33d0c02ff32bf48cb62606
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Tue Jun 26 20:13:43 2012 -0500
+
+    Merged organization and person data
+
+commit ea7d03f20f8a7b851fc3ec349c606ab4c72f56bf
+Merge: e6a093d c9af0ba
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Tue Jun 26 20:09:06 2012 -0500
+
+    Merge branch 'master' of https://github.com/nalmanza/cs373-wc
+
+commit e6a093d43e4cf1b6d4d49b51576e187509b2158b
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Tue Jun 26 20:08:50 2012 -0500
+
+    modified organizations
+
+commit c9af0ba955815622e56cad85068aa036b86fa668
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Tue Jun 26 20:08:22 2012 -0500
+
+    Adding persons information
+
+commit 7ba5df88480b202bb6577de0f99d20aa465989ae
+Author: Chris Villarreal <chrisvillarreal1018@gmail.com>
+Date:   Tue Jun 26 20:06:03 2012 -0500
+
+    Got data on organizations
+
+commit a97a3c4fbac7b9f289dd0d583562ba082c77c8d1
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Tue Jun 26 19:30:00 2012 -0500
+
+    Id attribute was missing in person and organization.txt
+
+commit 94d26c559375e0fc435b1e65ef6ecefc6f1a85a8
+Author: Nestor <dalmanzaf@aol.comkdir>
+Date:   Tue Jun 26 19:27:58 2012 -0500
+
+    Initializing Data Files
+
+commit d551378f5385f0fd45af7a4fa283c852d2cf70e7
+Author: nalmanza <dalmanzaf@aol.com>
+Date:   Tue Jun 26 16:24:22 2012 -0700
+
+    Initial commit

@@ -1,0 +1,75 @@
+<worldCrises>
+        <crisis id="abduction">
+        	<name>Abduction Of Children By The Lord's Resistance Army</name>
+        	<info>
+	        	<history></history>
+	        	<help>Donations</help>
+	        	<resources>Money, Health Care, Military</resources>
+	        	<type>Child abuse</type>
+	        	<time>
+		        	<time></time>
+		        	<day>1</day>
+		        	<month>4</month>
+		        	<year>1987</year>
+		        	<misc>Approximate/Ongoing</misc>
+	        	</time>
+	        	<loc>
+		        	<city></city>
+		        	<region>South Sudan</region>
+		        	<country>Uganda</country>
+	        	</loc>
+	        	<impact>
+		        	<human>
+			        	<deaths>1105</deaths>
+			        	<displaced>2000000</displaced>
+			        	<injured>50000</injured>
+			        	<missing>2519</missing>
+			        	<misc>Figures are approximate</misc>
+		        	</human>
+		        	<economic>
+			        	<amount>100000000</amount>
+			        	<currency>US Dollars</currency>
+			        	<misc>Unknown (Figures are estimates)</misc>
+		        	</economic>
+	        	</impact>
+        	</info>
+
+        	<ref>
+	        	<primaryImage>
+		        	<site></site>
+		        	<title></title>
+		        	<url></url>
+		        	<description></description>
+	        	</primaryImage>
+	        	<image>
+		        	<site>The Huffington Post</site>
+		        	<title>Limbaugh Lord's Resistance</title>
+		        	<url>http://images.huffingtonpost.com/2011-10-18-danzcolor4921.jpg</url>
+	        	</image>
+	        	<video>
+		        	<site>YouTube</site>
+		        	<title>The Lord's Resistance Army Hunts Children in Sudan</title>
+		        	<url>http://youtu.be/-ip08pjKngI</url>
+		        	<description>One of the world's most brutal rebel groups, Joseph Kony's Lord's Resistance Army (LRA), is on the move from the Congo, terrorizing civilians</description>
+	        	</video>
+	        	<social>
+		        	<site>Twitter</site>
+		        	<title>Lords Resistance Army</title>
+		        	<url>https://twitter.com/#!/Pulitzercenter/lords-resistance-army</url>
+		        	<description>A public list by Pulitzer Center</description>
+	        	</social>
+	        	<ext>
+		        	<site>LRA CRISIS TRACKER</site>
+		        	<title>Lords Resistance Army Crisis Tracker</title>
+		        	<url>http://www.lracrisistracker.com</url>
+		        	<description>The LRA Crisis Tracker is a real-time mapping platform and data collection system created to bring an unprecedented level of transparency to the atrocities of the Lord’s Resistance Army.</description>
+	        	</ext>
+        	</ref>
+
+        	<misc></misc>
+
+         	<org idref="invisible" />
+
+        	<person idref="Joseph_Kony" />
+        </crisis>
+</worldCrises>
